@@ -1,0 +1,21 @@
+{
+  "name": "tailwind-press",
+  "version": "1.0.0",
+  "description": "Sample repo for vuepress +",
+  "main": "tailwind.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "autoprefixer": "9.6.1",
+    "tailwindcss": "1.1.2",
+    "vuepress": "1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "Igor L Irianto <igoririanto@rocketmail.com>",
+  "license": "mit"
+}
